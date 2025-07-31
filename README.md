@@ -7,23 +7,23 @@ To apply the configuration, you'll need Bloxstrap. If you don't have it yet, dow
 Bloxstrap v2.9.0
 
 Setup Instructions:
-Install Bloxstrap and launch it.
+1.Install Bloxstrap and launch it.
 
-Click on "Configure Settings".
+2.Click on "Configure Settings".
 
-Go to "Engine Settings".
+3.Go to "Engine Settings".
 
-Scroll down and click on "Fast Flag Editor".
+4.Scroll down and click on "Fast Flag Editor".
 
-Press "Add New", then select "Import JSON".
+5.Press "Add New", then select "Import JSON".
 
-If you copied the FFlags instead of downloading the file, paste them manually.
+6.If you copied the FFlags instead of downloading the file, paste them manually.
 
-If you downloaded the file, choose "Import from file" and select the JSON file.
+7.If you downloaded the file, choose "Import from file" and select the JSON file.
 
-If a message appears saying "You appear to be importing a very large configuration", click "Yes".
+8.If a message appears saying "You appear to be importing a very large configuration", click "Yes".
 
-Click "Save".
+9.Click "Save".
 
 That’s it !
 If you run into any issues, feel free to reach out. :)
