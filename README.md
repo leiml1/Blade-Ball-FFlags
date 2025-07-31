@@ -4,7 +4,7 @@ I'm sharing my custom Blade Ball FFlag configuration, which includes a working L
 To use it, I’ll paste the contents of the file here (named "Blade Ball FFlag.json"). You can either download the file or copy the FFlags manually.
 
 To apply the configuration, you'll need Bloxstrap. If you don't have it yet, download it from this link:
-Bloxstrap v2.9.0
+[Bloxstrap v2.9.0](https://bloxstrap.org/)
 
 Setup Instructions:
 1.Install Bloxstrap and launch it.
