@@ -1,4 +1,29 @@
 # Blade-Ball-FFlags
-I'm sharing my own Blade ball FFlag with a working Lagball and some smooth graphics.
-To paste them i'm gonna paste the file in here (which is called ''Blade Ball FFlag.json'' and then download it or copy the FFlags) and then u need Bloxstrap. If u dont have Bloxstrap get it here (https://github.com/bloxstraplabs/bloxstrap/releases/download/v2.9.0/Bloxstrap-v2.9.0.exe)
-Then u follow the steps to set it up. After the Bloxstrap installation u need to open Bloxstrap and click on ''Configure settings'' then ''Engine settings'' then scroll down until u find the button ''Fast Flag Editor'' and click on it. Press on ''Add new'' then ''Import JSON'' (if you copied the FFlag instead of downloading it then just paste them in) and then ''Import from file''. You need to import the file of my FFlag there which i pasted in here and if a message comes up like ''You appear to be importing a very large configuration'' then u need to press on yes and then press on ''Save''. Now ur done... have fun with them and if u have any problem let me know :)
+I'm sharing my custom Blade Ball FFlag configuration, which includes a working Lagball and smoother graphics.
+
+To use it, I’ll paste the contents of the file here (named "Blade Ball FFlag.json"). You can either download the file or copy the FFlags manually.
+
+To apply the configuration, you'll need Bloxstrap. If you don't have it yet, download it from this link:
+Bloxstrap v2.9.0
+
+Setup Instructions:
+Install Bloxstrap and launch it.
+
+Click on "Configure Settings".
+
+Go to "Engine Settings".
+
+Scroll down and click on "Fast Flag Editor".
+
+Press "Add New", then select "Import JSON".
+
+If you copied the FFlags instead of downloading the file, paste them manually.
+
+If you downloaded the file, choose "Import from file" and select the JSON file.
+
+If a message appears saying "You appear to be importing a very large configuration", click "Yes".
+
+Click "Save".
+
+That’s it !
+If you run into any issues, feel free to reach out. :)
